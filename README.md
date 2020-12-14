@@ -3,11 +3,6 @@
 [![Linkedin Badge](https://img.shields.io/badge/-anirudhemmadi-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/topnguyen/)](https://www.linkedin.com/in/topnguyen/)
 
 <br />
-<br />
-
-![](https://visitor-badge.glitch.me/badge?page_id=topnguyen.topnguyen)
-
-<br />
 
 Hi, I'm [Top Nguyen](https://topnguyen.com/), a passionate self-taught .NET Developer and Product Manager 🚀 from Viet Nam.
   
@@ -15,7 +10,7 @@ Hi, I'm [Top Nguyen](https://topnguyen.com/), a passionate self-taught .NET Deve
 
 - 🔭 I’m currently working on something cool :wink:; 
 - 💬 Ask me about anything, I am happy to help;
-- 📫 How to reach me: [Skype](skype:live:vodanh_pp?chat);
+- 📫 How to reach me: [Skype](https://topnguyen.com/contact);
 - 📝[My Resume](https://topnguyen.com)
 
 📈 My GitHub Stats
