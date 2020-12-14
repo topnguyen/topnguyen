@@ -58,13 +58,13 @@ Hi, I'm [Top Nguyen](https://topnguyen.com/), a passionate self-taught .NET Deve
         <img style="margin: 10px" src="https://raw.githubusercontent.com/topnguyen/topnguyen/main/assets/skills-set-img/microsoft_azure-icon.svg" alt="Azure" height="50" />
         <img style="margin: 10px" src="https://raw.githubusercontent.com/topnguyen/topnguyen/main/assets/skills-set-img/google_cloud-icon.svg" alt="Google Cloud" height="50" />
         <img style="margin: 10px" src="https://raw.githubusercontent.com/topnguyen/topnguyen/main/assets/skills-set-img/jaeger.png" alt="Jaeger" height="50" />
-        <img style="margin: 10px" src="https://raw.githubusercontent.com/topnguyen/topnguyen/main/assets/skills-set-img/consul.png" alt="Consul" height="50" />
+        <img style="margin: 10px" src="https://raw.githubusercontent.com/topnguyen/topnguyen/main/assets/skills-set-img/consul.svg" alt="Consul" height="50" />
         <img style="margin: 10px" src="https://raw.githubusercontent.com/topnguyen/topnguyen/main/assets/skills-set-img/grafana.png" alt="Grafana" height="50" />
         <img style="margin: 10px" src="https://raw.githubusercontent.com/topnguyen/topnguyen/main/assets/skills-set-img/docker-original-wordmark.svg" alt="Docker" height="50" />  
         <img style="margin: 10px" src="https://raw.githubusercontent.com/topnguyen/topnguyen/main/assets/skills-set-img/git-scm-icon.svg" alt="Git" height="50" />
         <img style="margin: 10px" src="https://raw.githubusercontent.com/topnguyen/topnguyen/main/assets/skills-set-img/jenkins-icon.svg" alt="Jenkins" height="50" />  
         <img style="margin: 10px" src="https://raw.githubusercontent.com/topnguyen/topnguyen/main/assets/skills-set-img/linux-original.svg" alt="Linux" height="50" />
-        <img style="margin: 10px" src="https://raw.githubusercontent.com/topnguyen/topnguyen/main/assets/skills-set-img/windows.jpg" alt="Linux" height="50" />
+        <img style="margin: 10px" src="https://raw.githubusercontent.com/topnguyen/topnguyen/main/assets/skills-set-img/windows.jpg" alt="Windows" height="50" />
       </div>
     </td>
   </tr>
