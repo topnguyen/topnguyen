@@ -6,7 +6,7 @@ Hi, I'm [Top Nguyen](https://topnguyen.com/), a passionate self-taught .NET Deve
 
 - 🔭 I’m currently working on something cool :wink:; 
 - 💬 Ask me about anything, I am happy to help;
-- 📫 How to reach me: [Skype](https://topnguyen.com/contact);
+- 📫 How to reach me: [Skype](https://join.skype.com/invite/egBQxWAegiVJ);
 - 📝[My Resume](https://topnguyen.com)
 
 📈 My GitHub Stats
