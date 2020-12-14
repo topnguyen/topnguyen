@@ -28,30 +28,40 @@ Hi, I'm [Top Nguyen](https://topnguyen.com/), a passionate self-taught .NET Deve
     <td valign="top" width="33%">
     <div align="center"><b>Frontend</b></div>
       <div align="center"> 
-        <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" alt="JavaScript" height="50" />
-        <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/html5-original-wordmark.svg" alt="HTML5" height="50" />
-        <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/css3-original-wordmark.svg" alt="CSS3" height="50" />
-        <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/bootstrap-plain.svg" alt="Bootstrap" height="50" />
+        <img style="margin: 10px" src="https://raw.githubusercontent.com/topnguyen/topnguyen/main/assets/skills-set-img/javascript-original.svg" alt="JavaScript" height="50" />
+        <img style="margin: 10px" src="https://raw.githubusercontent.com/topnguyen/topnguyen/main/assets/skills-set-img/jquery.png" alt="Jquery" height="50" />
+        <img style="margin: 10px" src="https://raw.githubusercontent.com/topnguyen/topnguyen/main/assets/skills-set-img/html5-original-wordmark.svg" alt="HTML5" height="50" />
+        <img style="margin: 10px" src="https://raw.githubusercontent.com/topnguyen/topnguyen/main/assets/skills-set-img/css3-original-wordmark.svg" alt="CSS3" height="50" />
+        <img style="margin: 10px" src="https://raw.githubusercontent.com/topnguyen/topnguyen/main/assets/skills-set-img/bootstrap-plain.svg" alt="Bootstrap" height="50" />
+        <img style="margin: 10px" src="https://raw.githubusercontent.com/topnguyen/topnguyen/main/assets/skills-set-img/sass-original.svg" alt="Sass" height="50" />
       </div>
     </td>
     <td valign="top" width="33%">
     <div align="center"><b>Backend</b></div>
       <div align="center">  
-        <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/linux-original.svg" alt="Linux" height="50" />  
-        <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git" height="50" />  
-        <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/redux-original.svg" alt="Redux" height="50" />  
-        <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/gnu_bash-icon.svg" alt="Bash" height="50" />  
-        <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/cplusplus-original.svg" alt="C++" height="50" />  
+        <img style="margin: 10px" src="https://raw.githubusercontent.com/topnguyen/topnguyen/main/assets/skills-set-img/csharp-original.svg" alt="C#" height="50" />  
+        <img style="margin: 10px" src="https://raw.githubusercontent.com/topnguyen/topnguyen/main/assets/skills-set-img/dot-net-original-wordmark.svg" alt=".NET" height="50" />  
+        <img style="margin: 10px" src="https://raw.githubusercontent.com/topnguyen/topnguyen/main/assets/skills-set-img/net-core.png" alt=".NET Core" height="50" />  
+        <img style="margin: 10px" src="https://raw.githubusercontent.com/topnguyen/topnguyen/main/assets/skills-set-img/redis-original-wordmark.svg" alt="Redis" height="50" />  
+        <img style="margin: 10px" src="https://raw.githubusercontent.com/topnguyen/topnguyen/main/assets/skills-set-img/microsoft-sql-server.svg" alt="SQL Server" height="50" />  
+        <img style="margin: 10px" src="https://raw.githubusercontent.com/topnguyen/topnguyen/main/assets/skills-set-img/postgresql-original-wordmark.svg" alt="PostgreSql" height="50" />  
+        <img style="margin: 10px" src="https://raw.githubusercontent.com/topnguyen/topnguyen/main/assets/skills-set-img/elasticsearch.png" alt="Elastic" height="50" />  
+        <img style="margin: 10px" src="https://raw.githubusercontent.com/topnguyen/topnguyen/main/assets/skills-set-img/kibana.png" alt="Kibana" height="50" /> 
+        <img style="margin: 10px" src="https://raw.githubusercontent.com/topnguyen/topnguyen/main/assets/skills-set-img/apache_kafka-icon.svg" alt="Kafka" height="50" /> 
       </div>
     </td>
     <td valign="top" width="33%">
       <div align="center"><b>DevOps</b></div>
-      <div align="center">
-        <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/amazonwebservices-original-wordmark.svg" alt="AWS" height="50" />  
-        <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/kubernetes-icon.svg" alt="Kubernetes" height="50" />  
-        <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/linux-original.svg" alt="Linux" height="50" />  
-        <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git" height="50" />
-        <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/nginx-original.svg" alt="Nginx" height="50" />  
+      <div align="center"> 
+        <img style="margin: 10px" src="https://raw.githubusercontent.com/topnguyen/topnguyen/main/assets/skills-set-img/amazonwebservices-original-wordmark.svg" alt="AWS" height="50" />  
+        <img style="margin: 10px" src="https://raw.githubusercontent.com/topnguyen/topnguyen/main/assets/skills-set-img/microsoft_azure-icon.svg" alt="Azure" height="50" />
+        <img style="margin: 10px" src="https://raw.githubusercontent.com/topnguyen/topnguyen/main/assets/skills-set-img/google_cloud-icon.svg" alt="Google Cloud" height="50" />
+        <img style="margin: 10px" src="https://raw.githubusercontent.com/topnguyen/topnguyen/main/assets/skills-set-img/grafana.png" alt="Grafana" height="50" />
+        <img style="margin: 10px" src="https://raw.githubusercontent.com/topnguyen/topnguyen/main/assets/skills-set-img/docker-original-wordmark.svg" alt="Docker" height="50" />  
+        <img style="margin: 10px" src="https://raw.githubusercontent.com/topnguyen/topnguyen/main/assets/skills-set-img/git-scm-icon.svg" alt="Git" height="50" />
+        <img style="margin: 10px" src="https://raw.githubusercontent.com/topnguyen/topnguyen/main/assets/skills-set-img/jenkins-icon.svg" alt="Jenkins" height="50" />  
+        <img style="margin: 10px" src="https://raw.githubusercontent.com/topnguyen/topnguyen/main/assets/skills-set-img/linux-original.svg" alt="Linux" height="50" />
+        <img style="margin: 10px" src="https://raw.githubusercontent.com/topnguyen/topnguyen/main/assets/skills-set-img/windows.jpg" alt="Linux" height="50" />
       </div>
     </td>
   </tr>
