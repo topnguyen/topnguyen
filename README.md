@@ -4,7 +4,7 @@ Hi, I'm [Top Nguyen](https://topnguyen.com/), a passionate self-taught .NET Deve
 - 🔭 I’m currently working on something cool :wink:
 - 💬 Ask me about anything, I am happy to help
 
-#### Contact Me
+#### 👻 Contact Me
 
 <div align="left">
   <a href="https://linkedin.com/in/topnguyen" target="_blank">
@@ -21,7 +21,7 @@ Hi, I'm [Top Nguyen](https://topnguyen.com/), a passionate self-taught .NET Deve
 
 </div>
 
-#### My Skill Set
+#### ☠️ My Skill Set
 
 <table>
   <tr>
@@ -69,7 +69,7 @@ Hi, I'm [Top Nguyen](https://topnguyen.com/), a passionate self-taught .NET Deve
   </tr>
 </table>
 
-#### 📈 GitHub Stats
+#### 👀 GitHub Stats
 <div align="left">
   <img src="https://github-readme-stats.vercel.app/api?username=topnguyen&show_icons=true&theme=nightowl" alt="topnguyen" />
 </div>
