@@ -2,8 +2,6 @@
 
 [![Linkedin Badge](https://img.shields.io/badge/-anirudhemmadi-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/topnguyen/)](https://www.linkedin.com/in/topnguyen/)
 
-<br />
-
 Hi, I'm [Top Nguyen](https://topnguyen.com/), a passionate self-taught .NET Developer and Product Manager 🚀 from Viet Nam.
   
 **Talking about Personal Stuffs:**
