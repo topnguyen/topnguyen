@@ -1,7 +1,6 @@
 <!-- Note for Content
-
-Logo make by: https://img.shields.io/badge/-SKYPE-01A4E3?style=for-the-badge&logo=skype&logoColor=white
-
+- Logo make by: https://img.shields.io/badge/-SKYPE-01A4E3?style=for-the-badge&logo=skype&logoColor=white
+- Logo List: https://simpleicons.org/ (copy name to the above url)
 -->
 
 ### Hi There <img src="https://emojis.slackmojis.com/emojis/images/1588315024/8823/hyperkitty.gif" width="35px">
@@ -24,16 +23,18 @@ Hi, I'm [Top Nguyen](https://topnguyen.com/), a passionate self-taught .NET Deve
   <a href="https://join.skype.com/invite/egBQxWAegiVJ" target="_blank">
     <img height="30px" src="https://raw.githubusercontent.com/topnguyen/topnguyen/main/assets/social-img/Skype%20Logo.svg" alt="Skype" style="margin-bottom: 5px;" />
   </a>
-  <a href="https://www.facebook.com/topnguyen.net" target="_blank">
-    <img height="30px" src="https://raw.githubusercontent.com/topnguyen/topnguyen/main/assets/social-img/facebook.svg" alt="facebook" style="margin-bottom: 5px;" />
+  <a href="mailto:admin@topnguyen.com" target="_blank">
+    <img height="30px" src="https://raw.githubusercontent.com/topnguyen/topnguyen/main/assets/social-img/Gmail.svg" alt="gmail" style="margin-bottom: 5px;" />
   </a>
   <a href="https://linkedin.com/in/topnguyen" target="_blank">
     <img height="30px" src="https://raw.githubusercontent.com/topnguyen/topnguyen/main/assets/social-img/Linkedin.svg" alt="linkedin" style="margin-bottom: 5px;" />
   </a>
-  <a href="https://github.com/topnguyen" target="_blank">
-    <img height="30px" src="https://raw.githubusercontent.com/topnguyen/topnguyen/main/assets/social-img/github.svg" alt="github" style="margin-bottom: 5px;" />
+  <a href="https://www.facebook.com/topnguyen.net" target="_blank">
+    <img height="30px" src="https://raw.githubusercontent.com/topnguyen/topnguyen/main/assets/social-img/facebook.svg" alt="facebook" style="margin-bottom: 5px;" />
   </a>
-
+  <a href="https://topnguyen.com" target="_blank">
+    <img height="30px" src="https://raw.githubusercontent.com/topnguyen/topnguyen/main/assets/social-img/Web.svg" alt="website" style="margin-bottom: 5px;" />
+  </a>
 </div>
 
 #### ☠️ My Skill Set
