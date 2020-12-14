@@ -4,12 +4,12 @@
 
 Hi, I'm [Top Nguyen](https://topnguyen.com/), a passionate self-taught .NET Developer and Product Manager 🚀 from Viet Nam.
 
-- 🔭 I’m currently working on something cool :wink:; 
-- 💬 Ask me about anything, I am happy to help;
-- 📫 How to reach me: [Skype](https://join.skype.com/invite/egBQxWAegiVJ);
+- 🔭 I’m currently working on something cool :wink:
+- 💬 Ask me about anything, I am happy to help
+- 📫 How to reach me: [Skype](https://join.skype.com/invite/egBQxWAegiVJ)
 - 📝[My Resume](https://topnguyen.com)
 
-📈 My GitHub Stats
+#### 📈 GitHub Stats
 <p align="left">
   <img src="https://github-readme-stats.vercel.app/api?username=topnguyen&show_icons=true&theme=dracula" alt="topnguyen" />
 <p>
