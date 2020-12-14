@@ -7,17 +7,18 @@ Hi, I'm [Top Nguyen](https://topnguyen.com/), a passionate self-taught .NET Deve
 #### Contact Me
 
 <div align="left">
-  <a href="https://github.com/topnguyen" target="_blank">
-  <img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
-  </a>
-
   <a href="https://linkedin.com/in/topnguyen" target="_blank">
-  <img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
+    <img src="https://raw.githubusercontent.com/topnguyen/topnguyen/main/assets/social-img/Linkedin.svg" alt="linkedin" style="margin-bottom: 5px;" />
   </a>
 
   <a href="https://www.facebook.com/topnguyen.net" target="_blank">
-  <img src=https://img.shields.io/badge/facebook-%232E87FB.svg?&style=for-the-badge&logo=facebook&logoColor=white alt=facebook style="margin-bottom: 5px;" />
+    <img src="https://raw.githubusercontent.com/topnguyen/topnguyen/main/assets/social-img/facebook.svg" alt="facebook" style="margin-bottom: 5px;" />
   </a>
+  
+  <a href="https://github.com/topnguyen" target="_blank">
+    <img src="https://raw.githubusercontent.com/topnguyen/topnguyen/main/assets/social-img/github.svg" alt="github" style="margin-bottom: 5px;" />
+  </a>
+
 </div>
 
 #### My Skill Set
