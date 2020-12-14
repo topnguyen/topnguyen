@@ -71,7 +71,7 @@ Hi, I'm [Top Nguyen](https://topnguyen.com/), a passionate self-taught .NET Deve
 
 #### 📈 GitHub Stats
 <div align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=topnguyen&show_icons=true&theme=dracula" alt="topnguyen" />
+  <img src="https://github-readme-stats.vercel.app/api?username=topnguyen&show_icons=true&theme=nightowl" alt="topnguyen" />
 </div>
 
 ---
