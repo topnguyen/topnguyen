@@ -34,6 +34,7 @@ Hi, I'm [Top Nguyen](https://topnguyen.com/), a passionate self-taught .NET Deve
         <img style="margin: 10px" src="https://raw.githubusercontent.com/topnguyen/topnguyen/main/assets/skills-set-img/css3-original-wordmark.svg" alt="CSS3" height="50" />
         <img style="margin: 10px" src="https://raw.githubusercontent.com/topnguyen/topnguyen/main/assets/skills-set-img/bootstrap-plain.svg" alt="Bootstrap" height="50" />
         <img style="margin: 10px" src="https://raw.githubusercontent.com/topnguyen/topnguyen/main/assets/skills-set-img/sass-original.svg" alt="Sass" height="50" />
+        <img style="margin: 10px" src="https://raw.githubusercontent.com/topnguyen/topnguyen/main/assets/skills-set-img/less.png" alt="Less" height="50" />
       </div>
     </td>
     <td valign="top" width="33%">
@@ -56,6 +57,8 @@ Hi, I'm [Top Nguyen](https://topnguyen.com/), a passionate self-taught .NET Deve
         <img style="margin: 10px" src="https://raw.githubusercontent.com/topnguyen/topnguyen/main/assets/skills-set-img/amazonwebservices-original-wordmark.svg" alt="AWS" height="50" />  
         <img style="margin: 10px" src="https://raw.githubusercontent.com/topnguyen/topnguyen/main/assets/skills-set-img/microsoft_azure-icon.svg" alt="Azure" height="50" />
         <img style="margin: 10px" src="https://raw.githubusercontent.com/topnguyen/topnguyen/main/assets/skills-set-img/google_cloud-icon.svg" alt="Google Cloud" height="50" />
+        <img style="margin: 10px" src="https://raw.githubusercontent.com/topnguyen/topnguyen/main/assets/skills-set-img/jaeger.png" alt="Jaeger" height="50" />
+        <img style="margin: 10px" src="https://raw.githubusercontent.com/topnguyen/topnguyen/main/assets/skills-set-img/consul.png" alt="Consul" height="50" />
         <img style="margin: 10px" src="https://raw.githubusercontent.com/topnguyen/topnguyen/main/assets/skills-set-img/grafana.png" alt="Grafana" height="50" />
         <img style="margin: 10px" src="https://raw.githubusercontent.com/topnguyen/topnguyen/main/assets/skills-set-img/docker-original-wordmark.svg" alt="Docker" height="50" />  
         <img style="margin: 10px" src="https://raw.githubusercontent.com/topnguyen/topnguyen/main/assets/skills-set-img/git-scm-icon.svg" alt="Git" height="50" />
