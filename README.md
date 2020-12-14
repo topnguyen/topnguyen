@@ -1,5 +1,10 @@
-### Hi There <img src="https://emojis.slackmojis.com/emojis/images/1588315024/8823/hyperkitty.gif" width="35px">
+<!-- Note for Content
 
+Logo make by: https://img.shields.io/badge/-SKYPE-01A4E3?style=for-the-badge&logo=skype&logoColor=white
+
+-->
+
+### Hi There <img src="https://emojis.slackmojis.com/emojis/images/1588315024/8823/hyperkitty.gif" width="35px">
 
 Hi, I'm [Top Nguyen](https://topnguyen.com/), a passionate self-taught .NET Developer and Product Manager 🚀 from Viet Nam.
 
@@ -17,7 +22,7 @@ Hi, I'm [Top Nguyen](https://topnguyen.com/), a passionate self-taught .NET Deve
 
 <div align="left">
   <a href="https://join.skype.com/invite/egBQxWAegiVJ" target="_blank">
-    <img height="30px" src="https://raw.githubusercontent.com/topnguyen/topnguyen/main/assets/social-img/Skype%20Blue.svg" alt="Skype" style="margin-bottom: 5px;" />
+    <img height="30px" src="https://raw.githubusercontent.com/topnguyen/topnguyen/main/assets/social-img/Skype%20Logo.svg" alt="Skype" style="margin-bottom: 5px;" />
   </a>
   <a href="https://www.facebook.com/topnguyen.net" target="_blank">
     <img height="30px" src="https://raw.githubusercontent.com/topnguyen/topnguyen/main/assets/social-img/facebook.svg" alt="facebook" style="margin-bottom: 5px;" />
