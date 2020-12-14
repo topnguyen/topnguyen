@@ -17,7 +17,7 @@ Hi, I'm [Top Nguyen](https://topnguyen.com/), a passionate self-taught .NET Deve
 
 <div align="left">
   <a href="https://join.skype.com/invite/egBQxWAegiVJ" target="_blank">
-    <img src="https://img.shields.io/badge/-Skype-01A4E3?style=flat-square&logo=skype&logoColor=white" alt="Skype" style="margin-bottom: 5px;" />
+    <img src="https://raw.githubusercontent.com/topnguyen/topnguyen/main/assets/social-img/Skype.svg" alt="Skype" style="margin-bottom: 5px;" />
   </a>
   <a href="https://www.facebook.com/topnguyen.net" target="_blank">
     <img src="https://raw.githubusercontent.com/topnguyen/topnguyen/main/assets/social-img/facebook.svg" alt="facebook" style="margin-bottom: 5px;" />
