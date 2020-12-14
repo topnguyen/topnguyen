@@ -1,4 +1,5 @@
-### Hi There <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
+### Hi There <img src="https://emojis.slackmojis.com/emojis/images/1588315024/8823/hyperkitty.gif" width="35px">
+
 
 Hi, I'm [Top Nguyen](https://topnguyen.com/), a passionate self-taught .NET Developer and Product Manager 🚀 from Viet Nam.
 
