@@ -79,12 +79,9 @@ Hi, I'm [Top Nguyen](https://topnguyen.com/), a passionate self-taught .NET Deve
 </table>
 
 #### 👀 GitHub Stats
-<div align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=topnguyen&show_icons=true&theme=nightowl&count_private=true&line_height=40" alt="topnguyen" />
-</div>
-<div align="right">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=topnguyen&layout=compact&theme=nightowl&hide_langs_below=4" alt="topnguyen" />
-</div>
+<img align="left" src="https://github-readme-stats.vercel.app/api?username=topnguyen&show_icons=true&theme=nightowl&count_private=true&line_height=40" alt="topnguyen" />
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=topnguyen&layout=compact&theme=nightowl&hide_langs_below=4" alt="topnguyen" />
+
 ---
 
 If you like what I do, please consider to buy me a coffee 🥺👉👈
