@@ -16,14 +16,15 @@ Hi, I'm [Top Nguyen](https://topnguyen.com/), a passionate self-taught .NET Deve
 #### 👻 Contact Me
 
 <div align="left">
-  <a href="https://linkedin.com/in/topnguyen" target="_blank">
-    <img src="https://raw.githubusercontent.com/topnguyen/topnguyen/main/assets/social-img/Linkedin.svg" alt="linkedin" style="margin-bottom: 5px;" />
+  <a href="https://join.skype.com/invite/egBQxWAegiVJ" target="_blank">
+    <img src="https://img.shields.io/badge/-Skype-01A4E3?style=flat-square&logo=skype&logoColor=white" alt="Skype" style="margin-bottom: 5px;" />
   </a>
-
   <a href="https://www.facebook.com/topnguyen.net" target="_blank">
     <img src="https://raw.githubusercontent.com/topnguyen/topnguyen/main/assets/social-img/facebook.svg" alt="facebook" style="margin-bottom: 5px;" />
   </a>
-  
+  <a href="https://linkedin.com/in/topnguyen" target="_blank">
+    <img src="https://raw.githubusercontent.com/topnguyen/topnguyen/main/assets/social-img/Linkedin.svg" alt="linkedin" style="margin-bottom: 5px;" />
+  </a>
   <a href="https://github.com/topnguyen" target="_blank">
     <img src="https://raw.githubusercontent.com/topnguyen/topnguyen/main/assets/social-img/github.svg" alt="github" style="margin-bottom: 5px;" />
   </a>
