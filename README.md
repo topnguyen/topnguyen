@@ -8,7 +8,7 @@ Hi, I'm [Top Nguyen](https://topnguyen.com/), a passionate self-taught .NET Deve
 
 <div align="left">
   <a href="https://github.com/topnguyen" target="_blank">
-  <img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
+  <img src="https://raw.githubusercontent.com/topnguyen/topnguyen/main/assets/social-img/Linkedin.svg" alt=github style="margin-bottom: 5px;" />
   </a>
 
   <a href="https://linkedin.com/in/topnguyen" target="_blank">
