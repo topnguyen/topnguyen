@@ -64,7 +64,6 @@ Hi, I'm [Top Nguyen](https://topnguyen.com/), a passionate self-taught .NET Deve
         <img style="margin: 10px" src="https://raw.githubusercontent.com/topnguyen/topnguyen/main/assets/skills-set-img/git-scm-icon.svg" alt="Git" height="50" />
         <img style="margin: 10px" src="https://raw.githubusercontent.com/topnguyen/topnguyen/main/assets/skills-set-img/jenkins-icon.svg" alt="Jenkins" height="50" />  
         <img style="margin: 10px" src="https://raw.githubusercontent.com/topnguyen/topnguyen/main/assets/skills-set-img/linux-original.svg" alt="Linux" height="50" />
-        <img style="margin: 10px" src="https://raw.githubusercontent.com/topnguyen/topnguyen/main/assets/skills-set-img/windows.jpg" alt="Windows" height="50" />
       </div>
     </td>
   </tr>
