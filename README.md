@@ -17,8 +17,10 @@ Hi, I'm [Top Nguyen](https://topnguyen.com/), a passionate self-taught .NET Deve
 - <a href="https://sourcerer.io/topnguyen">💋 My Software Engineering Experience by sourcerer.io</a>
 - <a href="https://topnguyen.com">😱 Check out my website</a>
 
-***Hopefully we cross paths in the real world someday and we can make it a better place together.
-Thanks for stopping by!***
+*Hopefully we cross paths in the real world someday and we can make it a better place together.*
+<br />
+
+Thanks for stopping by!
 
 #### 👻 Contact Me
 
