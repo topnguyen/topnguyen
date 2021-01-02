@@ -5,6 +5,14 @@
 
 ### Hi There <img src="https://emojis.slackmojis.com/emojis/images/1588315024/8823/hyperkitty.gif" width="35px">
 
+<p>
+    <h3 style="text-align:center">
+        <a href="http://beta.topnguyen.com/resume">
+            📌View My Resumé
+        </a>
+    </h3>
+<p>
+  
 Hi, I'm [Top Nguyen](https://topnguyen.com/), a passionate self-taught .NET Developer and Product Manager 🚀 from Viet Nam.
 
 <img width="400px" align="right" src="https://media.giphy.com/media/LOtA167hCcYaAZEth1/giphy.gif" />
