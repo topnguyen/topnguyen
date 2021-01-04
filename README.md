@@ -19,7 +19,7 @@ Hi, I'm [Top Nguyen](https://topnguyen.com/), a passionate self-taught .NET Deve
 
 <p>
     <h3 style="text-align:center">
-        <a href="http://beta.topnguyen.com/resume">
+        <a href="https://topnguyen.com/resume">
             📌View My Resumé
         </a>
     </h3>
