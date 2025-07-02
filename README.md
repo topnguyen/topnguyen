@@ -28,9 +28,6 @@ Hi, I'm [Top Nguyen](https://topnguyen.com/), a passionate self-taught .NET Deve
 #### 👻 Contact Me
 
 <div align="left">
-  <a href="https://join.skype.com/invite/egBQxWAegiVJ" target="_blank">
-    <img height="30px" src="https://raw.githubusercontent.com/topnguyen/topnguyen/main/assets/social-img/Skype%20Logo.svg" alt="Skype" style="margin-bottom: 5px;" />
-  </a>
   <a href="mailto:admin@topnguyen.com" target="_blank">
     <img height="30px" src="https://raw.githubusercontent.com/topnguyen/topnguyen/main/assets/social-img/Gmail.svg" alt="gmail" style="margin-bottom: 5px;" />
   </a>
