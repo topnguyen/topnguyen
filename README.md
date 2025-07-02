@@ -7,8 +7,6 @@
   
 Hi, I'm [Top Nguyen](https://topnguyen.com/), a passionate self-taught .NET Developer and Product Manager 🚀 from Viet Nam.
 
-<img width="400px" align="right" src="https://media.giphy.com/media/LOtA167hCcYaAZEth1/giphy.gif" />
-
 - ASP.NET Core developer since it moved to beta in 2014. 
 - 🤔 Worked on projects of all sizes from the smallest of apps/start-up to the largest enterprise systems
 - 🔭 I’m currently working on something cool :wink:
