@@ -14,7 +14,6 @@ Hi, I'm [Top Nguyen](https://topnguyen.com/), a passionate self-taught .NET Deve
 - 🔭 I’m currently working on something cool :wink:
 - 💬 Ask me about anything, I am happy to help
 - 😄 Pronouns: he/him
-- <a href="https://sourcerer.io/topnguyen">💋 My Software Engineering Experience by sourcerer.io</a>
 - <a href="https://topnguyen.com">😱 Check out my website</a>
 
 <p>
