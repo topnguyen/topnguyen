@@ -1,9 +1,4 @@
-<!-- Note for Content
-- Logo make by: https://img.shields.io/badge/-SKYPE-01A4E3?style=for-the-badge&logo=skype&logoColor=white
-- Logo List: https://simpleicons.org/ (copy name to the above url)
--->
-
-### Hi There <img src="https://emojis.slackmojis.com/emojis/images/1588315024/8823/hyperkitty.gif" width="35px">
+### Hi There
   
 Hi, I'm [Top Nguyen](https://topnguyen.com/), a passionate self-taught .NET Developer and Product Manager 🚀 from Viet Nam.
 
