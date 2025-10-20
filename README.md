@@ -12,30 +12,12 @@ Hi, I'm [Top Nguyen](https://topnguyen.com/), a passionate self-taught .NET Deve
 - 🔭 I’m currently working on something cool :wink:
 - 💬 Ask me about anything, I am happy to help
 - 😄 Pronouns: he/him
-- <a href="https://topnguyen.com">😱 Check out my website</a>
 
-<p>
-    <h3 style="text-align:center">
-        <a href="https://topnguyen.com/resume">
-            📌View My Resumé
-        </a>
-    </h3>
-<p>
-    
 #### 👻 Contact Me
 
 <div align="left">
   <a href="mailto:admin@topnguyen.com" target="_blank">
     <img height="30px" src="https://raw.githubusercontent.com/topnguyen/topnguyen/main/assets/social-img/Gmail.svg" alt="gmail" style="margin-bottom: 5px;" />
-  </a>
-  <a href="https://linkedin.com/in/topnguyen" target="_blank">
-    <img height="30px" src="https://raw.githubusercontent.com/topnguyen/topnguyen/main/assets/social-img/Linkedin.svg" alt="linkedin" style="margin-bottom: 5px;" />
-  </a>
-  <a href="https://www.facebook.com/topnguyen.net" target="_blank">
-    <img height="30px" src="https://raw.githubusercontent.com/topnguyen/topnguyen/main/assets/social-img/facebook.svg" alt="facebook" style="margin-bottom: 5px;" />
-  </a>
-  <a href="https://topnguyen.com" target="_blank">
-    <img height="30px" src="https://raw.githubusercontent.com/topnguyen/topnguyen/main/assets/social-img/Web.svg" alt="website" style="margin-bottom: 5px;" />
   </a>
 </div>
 
